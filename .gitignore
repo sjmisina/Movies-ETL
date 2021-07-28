@@ -1,5 +1,6 @@
 Data/
 config.py
+Module08_ETL_Work.ipynb
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
